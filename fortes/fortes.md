@@ -4,10 +4,14 @@ O sistema apresentado visa gerenciar ações sociais, englobando doações, dist
 recursos, participação de usuários, notificações, e o registro de histórico de atividades. 
 Ele está estruturado para permitir o controle eficiente de instituições carentes, usuários 
 envolvidos, recursos disponíveis, e categorias de ações realizadas.
+
+
 Objetivo
 Facilitar o gerenciamento de campanhas sociais e doações, garantindo que os recursos 
 sejam alocados corretamente às instituições e monitorando as atividades realizadas por 
 usuários e organizações.
+
+
 Entidades e Relacionamentos
 1. Usuário
 o Representa os indivíduos cadastrados no sistema.
